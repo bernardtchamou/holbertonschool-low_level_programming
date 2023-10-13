@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-/* fichier 5 : 5-printf.c */
+/**
+* main - fonction pricipale
+* printf - commande affichant le message
+* Return: retourner 0 si le code n'a pas d'erreur
+*/
+
 int main(void)
 
 {
