@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Indique si le dernier chiffre d'un nombre au hasard est plus grand que 5, est plus petit que 6 ou est 0
+ * main - Indique si le dernier chiffre d'un nombre est >5, <6 ou =0
 (*
  * Return: 0 si code bon
  */
