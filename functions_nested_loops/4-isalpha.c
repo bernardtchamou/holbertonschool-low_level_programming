@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_islower - indique un caractere
+*_islower - indique un caractere en utilisant le code ASCII
 *@c: argument c
 *Return: 1 si c est une lettre 0 si autre
 */
