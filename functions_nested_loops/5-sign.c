@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*print_sign - indique le signe d'un nombre
-*@n: argument n, correspondant au nombre à traiter
-*Return: 1 si c est une lettre 0 si autre
+* print_sign - indique le signe d'un nombre
+* @n: argument n, correspondant au nombre à traiter
+* Return: 1 si c est une lettre 0 si autre
 */
 
 int print_sign(int n)
