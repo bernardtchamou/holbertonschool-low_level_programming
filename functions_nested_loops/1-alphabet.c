@@ -1,16 +1,17 @@
-#include <main.h>
+
+#include "main.h"
 #include <stdio.h>
 /**
-* alphabet - Affiche l'alphabet en minuscule
+* print_alphabet - Affiche l'alphabet en minuscule
 * Return: 0 si code bon
 */
 
-void alphabet(void)
+void print_alphabet(void)
 {
-int letter;
-for (letter = 'a'; letter <= 'z'; letter++)
+int l;
+for (l = 'a'; l <= 'z'; l++)
 {
-_putchar (letter);
+_putchar (l);
 }
 _putchar (10);
 }
