@@ -1,11 +1,11 @@
-#include "main"
+#include "main.h"
 
 /**
  * main - fonction principale
  * Return: 0 si code bon
  */
 
-int main(void);
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
