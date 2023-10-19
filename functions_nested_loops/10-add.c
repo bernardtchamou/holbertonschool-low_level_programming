@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _add - ajoute un valer à un entier
+ * add - ajoute un valer à un entier
  * @num1:Premier numéro
  * @num2:Deuxième numéro
  * Return: somme de num1 et num2
