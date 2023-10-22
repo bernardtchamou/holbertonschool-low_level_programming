@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal(int n) - fonction qui dessine une diagonale
+ * print_diagonal - fonction qui dessine une diagonale
  *@n: nombre de slash
  */
 
@@ -12,7 +12,7 @@ void print_diagonal(int n)
 	if (n <= 0)
 	{
 		_putchar('\n');
-	}
+	} else
 
 	for (i = 1; i <= n; i++)
 	{
